@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- I'm Yerlan Jumabayev, specializing in frontend development. ⚡
+- I’m currently learning cutting-edge frontend technologies and frameworks.
+- 📫 How to reach me: [telegram](t.me/ed_way)   
 <!--
 **thevarp19/thevarp19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
